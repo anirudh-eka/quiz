@@ -1,0 +1,16 @@
+{
+  "name": "unfolding-a-paginated-api",
+  "version": "1.0.0",
+  "description": "Example of how to use an unfold (generator function) to read a paginated api.",
+  "main": "index.js",
+  "type": "module",
+  "author": "anirudh-eka",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "esm": "^3.2.25",
+    "inquirer": "^9.0.0"
+  }
+}
