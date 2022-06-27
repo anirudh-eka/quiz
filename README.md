@@ -4,6 +4,8 @@ An implementation of a contrived quiz flow that runs from the CLI. To run,
 ```
 yarn start
 ```
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/2926126/175872906-5d542aa0-681c-4f61-89b7-486de09a6528.gif)
+
 
 The quiz template can be found in `./quiz-template.js`. The schema for a particular quiz question is:
 
